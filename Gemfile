@@ -1,0 +1,15 @@
+# frozen_string_literal: false
+source 'http://rubygems.org'
+
+gem 'allure-cucumber'
+gem 'capybara'
+gem 'cucumber'
+gem 'faker'
+gem 'pry'
+gem 'report_builder'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'webdrivers'
+gem 'httparty'
+gem 'json-schema'
