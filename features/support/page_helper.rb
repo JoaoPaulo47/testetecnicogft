@@ -10,4 +10,8 @@ module PageObjects
   def requisicoes_api
     RequisicoesAPI.new
   end
+
+  def contato
+    ContatoPage.new
+  end
 end
